@@ -1,4 +1,4 @@
-package com.project.santander.bootcamp.dto;
+package com.project.santander.bootcamp.model.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
