@@ -1,0 +1,60 @@
+.stock-card {
+    width: 21.375rem;
+    height: 13.8125rem;
+    background-color: var(--secondary-color);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 0.25rem;
+    border-left: solid var(--positive-variation-color) 0.25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.stock-card-info {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stock-card-info h2,
+.stock-card-info p {
+    margin: 0;
+}
+
+.stock-card-info h2 {
+    color: var(--text-color);
+}
+
+.stock-card-info p {
+    font-weight: 500;
+    font-size: 0.875rem;
+    color: var(--text-color-light);
+}
+
+.stock-card-value {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.stock-card-value .value {
+    font-size: 3rem;
+    font-weight: bold;
+    color: var(--text-color);
+}
+
+.stock-card-value .variation {
+    background-color: var(--positive-variation-color);
+    color: var(--secondary-color);
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    align-self: flex-end;
+    margin-top: 0.25rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+}
