@@ -12,7 +12,7 @@ Guilherme Revoredo
 
 Roberto Junior
 
-#### Mentoria: Os desafios de construir o aplicativo nativo do Santander usando Kotlin
+##### Mentoria: Os desafios de construir o aplicativo nativo do Santander usando Kotlin
 
 Caroline Tenorio Ribeiro
 
@@ -26,7 +26,7 @@ Venilton Falvo Jr
 
 Roberto Junior
 
-#### **Mentoria:** Como o Java é utilizado para desenvolver soluções no Santander?
+##### **Mentoria:** Como o Java é utilizado para desenvolver soluções no Santander?
 
 Everton da Silva Barros
 
@@ -40,7 +40,7 @@ Venilton Falvo Jr
 
 Roberto Junior
 
-#### Mentoria: Os desafios de escalar uma aplicação frontend usando Angular no Santander
+##### Mentoria: Os desafios de escalar uma aplicação frontend usando Angular no Santander
 
 Daniel Bertolini Correia
 
@@ -50,8 +50,4 @@ Felipe Aguiar
 
 ---
 
-Aluno: André Aguiar
-
-MBA: DS e IA
-
-Tecnólogo : Gestão de TI
+André Aguiar - MBA: DS & IA / Tecnólogo: Gestão de TI
