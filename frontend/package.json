@@ -6,7 +6,7 @@
         "start": "ng serve --o",
         "build": "ng build",
         "watch": "ng build --watch --configuration development",
-        "deploy": "ng deploy --base-href=https://AndrehAguiar.github.io/santander-bootcamp/frontend/",
+        "deploy": "ng deploy --base-href=https://andrehaguiar.github.io/santander-bootcamp/",
         "test": "ng test"
     },
     "private": true,
