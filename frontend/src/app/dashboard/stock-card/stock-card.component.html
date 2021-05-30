@@ -1,4 +1,4 @@
-<div class="stock-card" [class.negative-variation]="stock.variation < 0">
+<div (click)="gotToEditForm()" class="stock-card" [class.negative-variation]="stock.variation < 0">
     <div class="stock-card-info">
         <h2>{{stock.name}}</h2>
         <p>{{stock.date}}</p>

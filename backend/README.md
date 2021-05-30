@@ -2,7 +2,7 @@
 
 ### Backend em produção no Heroku
 
-Testes de endpoints disponíveis em: [Swagger UI](http://devweek-santander.herokuapp.com/bootcamp/swagger-ui/index.html?configUrl=/bootcamp/v3/api-docs/swagger-config#/stock-controller/save)
+Testes de endpoints disponíveis em: [Swagger UI](http://devweek-santander.herokuapp.com/bootcamp/swagger-ui/index.html?configUrl=/bootcamp/v3/api-docs/swagger-config)
 
 ---
 

@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import Stock from 'src/app/shared/model/stock.model';
+import { Stock } from 'src/app/shared/model/stock.model';
 import { DashboardService } from '../dashboard.service';
 
 @Component({

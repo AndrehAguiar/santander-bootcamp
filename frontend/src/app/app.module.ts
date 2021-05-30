@@ -1,3 +1,4 @@
+import { FormModule } from './form/form.module';
 import { SharedModule } from './shared/shared.module';
 import { DashboardModule } from './dashboard/dashboard.module';
 import { LOCALE_ID, NgModule } from '@angular/core';
@@ -19,10 +20,11 @@ registerLocaleData(localePt);
     BrowserModule,
     AppRoutingModule,
     DashboardModule,
+    FormModule,
     SharedModule,
   ],
   providers: [
-    { provide: LOCALE_ID, useValue: 'pt-BR'}
+    { provide: LOCALE_ID, useValue: 'pt-BR' }
 
   ],
   bootstrap: [AppComponent]
